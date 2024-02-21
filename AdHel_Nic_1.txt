@@ -1,5 +1,5 @@
 Djonio_Hanter
-Melanie_Hanter
+Anastasia
 Adept_Lawliet
 Brandon_Marchetti
 Keanu_Depardess
@@ -21,7 +21,7 @@ Moranabel_Skay
 Heather_Marchetti
 Lee_Oshi
 Elephante_Hanter
-Agusha_Steel
+Agusha
 Matthew_Margela
 Marsello_Nelson
 August_Steffenhagen
@@ -32,6 +32,4 @@ Nik_Ray
 Meow_Tanaka
 Armando_Nelson
 Alfred_Hanter
-Hensy_Sailent
-Anett_Lawliet
 Darling
