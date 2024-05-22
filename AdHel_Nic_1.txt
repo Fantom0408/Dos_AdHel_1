@@ -11,7 +11,7 @@ Irene_Hanter
 Moder_Wallenstein
 Malson_Harrison
 Orlando_Harrison
-Egoistina
+Sleza
 Михаил
 Ariana_Versantes
 Moranabel_Skay
@@ -27,7 +27,7 @@ Armando_Nelson
 Alfred_Hanter
 Nami_Lawliet
 Keon_Delpozo
-Active_Apathy
+Apathy
 Positive_Palacios
 Wilhelm_Scholz
 Juzo_Marchetti
@@ -35,13 +35,9 @@ Sergio_Nelson
 Madeline_Emboshit
 Vito_Reed
 Monica_Versantes
-John_Rouse
 Anrouise_Wallenstein
-Shawty_Exdie
 Pretty_Weakness
-Sigma_Mcqueen
 Shinigami_Disaster
-Kirito_Nelson
-Neon_Nelson
 Marcus_Satan
+Sigma_Mcqueen
 Yung_Remington
