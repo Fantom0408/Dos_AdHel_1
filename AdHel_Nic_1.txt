@@ -10,7 +10,6 @@ Edvin_Versantes
 Irene_Hanter
 Moder_Wallenstein
 Orlando_Harrison
-Sleza
 Ariana_Versantes
 Moranabel_Skay
 Gavi_Werside
@@ -29,5 +28,4 @@ Vito_Reed
 Monica_Versantes
 Anrouise
 Shinigami
-Marcus_Satan
 Sigma
