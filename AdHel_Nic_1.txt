@@ -8,7 +8,7 @@ Gavi_Werside
 Karina
 Irene_Hanter
 Moder_Wallenstein
-Orlando_Harrison
+OrIando
 Ariana_Versantes
 Moranabel_Skay
 Marsello_Nelson
@@ -35,6 +35,9 @@ Sugar_Harrison
 Sieghard_Versantes
 Miguel_Hanter
 Jack_Crazy
+Nicholas_Sharp
+Axel_Carnoze
+Christopher_Nelson
 Nicholas_Sharp
 Axel_Carnoze
 Christopher_Nelson
